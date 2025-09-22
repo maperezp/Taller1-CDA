@@ -23,11 +23,11 @@ cd Taller1-CDA
 
 ## **Documentación**
 
-- Los puntos del 1 al 3 se encuentran desarrollados en el notebook [Taller1.ipynb](.\Taller1.ipynb). Ejecute todas las celdas en orden.
-  - Para el entendimiento inicial de los datos (punto 1) se genero el reporte de profiling que se peude encotrar en [report](.\data\report.html).
+- Los puntos del 1 al 3 se encuentran desarrollados en el notebook [Taller1.ipynb](./Taller1.ipynb). Ejecute todas las celdas en orden.
+  - Para el entendimiento inicial de los datos (punto 1) se genero el reporte de profiling que se peude encotrar en [report](./data/report.html).
 
 - El informe ejecutivo (punto 4) se encuentra en [Informe ejecutivo](./InformeEjecutivo.pdf).
-  - Las figuras presentadas se encuentran en la carpeta `figs`.
+  - Las graficas presentadas se encuentran en la carpeta `figs`.
 
 
 
