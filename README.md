@@ -6,7 +6,10 @@
 
 - Daniel Esteban Aguilera Figueroa - 202010592
 
-## **Insturcciones de ejecución**
+# Objetivo
+Este análisis tiene como propósito ofrecer a las cadenas hoteleras un conjunto de estrategias de gestión enfocadas en cuatro dimensiones clave: tipo de cliente, tarifa promedio diaria, tipo de hotel y tiempo de anticipación de la reserva. El objetivo principal es reducir el número de cancelaciones y optimizar la administración de la agenda hotelera.
+
+## **Instrucciones de ejecución**
 
 Clone el repositorio:
 ``` bash
@@ -21,7 +24,10 @@ cd Taller1-CDA
 ## **Documentación**
 
 - Los puntos del 1 al 3 se encuentran desarrollados en el notebook [Taller1.ipynb](.\Taller1.ipynb). Ejecute todas las celdas en orden.
-- El informe ejecutivo (punto 4) se encuentra en 
+  - Para el entendimiento inicial de los datos (punto 1) se genero el reporte de profiling que se peude encotrar en [report](.\data\report.html).
 
-## **Conclusiones (Insights)**
+- El informe ejecutivo (punto 4) se encuentra en [Informe ejecutivo](./InformeEjecutivo.pdf).
+  - Las figuras presentadas se encuentran en la carpeta `figs`.
+
+
 
